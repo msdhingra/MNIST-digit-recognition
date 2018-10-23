@@ -1,2 +1,2 @@
 # MNIST-digit-recognition
-My own implementation for training my own neural network( MNIST dataset ).
+Implementation for training a neural network( MNIST dataset ).
